@@ -1,0 +1,7 @@
+.formComponent{
+  display: flex;
+  flex-direction: column;
+}
+.useCase{
+  text-align: center;
+}
